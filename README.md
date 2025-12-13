@@ -238,10 +238,6 @@ This Plant Disease Detection System is part of **Krishi Sohayak** (Agricultural 
 - Market price predictions
 - Expert consultation services
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👥 Author
 
 **Trish Purkait**
@@ -282,5 +278,6 @@ my_model_checkpoint.keras (trained model of 1st part)- https://drive.google.com/
 
 
 best_model_resume.keras (trained model of 2nd/final part)- https://drive.google.com/file/d/1cUWFmpSBmyXqG-iw_Mjl_LUGi3CwwL56/view?usp=drive_link
+
 
 
