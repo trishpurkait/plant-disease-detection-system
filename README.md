@@ -6,7 +6,6 @@ An AI-powered web application for detecting plant diseases and providing treatme
 ![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange.svg)
 ![Accuracy](https://img.shields.io/badge/Accuracy-95.86%25-brightgreen.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## 🎯 Features
 
@@ -278,6 +277,7 @@ my_model_checkpoint.keras (trained model of 1st part)- https://drive.google.com/
 
 
 best_model_resume.keras (trained model of 2nd/final part)- https://drive.google.com/file/d/1cUWFmpSBmyXqG-iw_Mjl_LUGi3CwwL56/view?usp=drive_link
+
 
 
 
