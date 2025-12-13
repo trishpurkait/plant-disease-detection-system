@@ -200,6 +200,12 @@ The CNN model was trained on the PlantVillage dataset with:
 
 Dataset source: [PlantVillage on Kaggle](https://www.kaggle.com/datasets/emmarex/plantdisease)
 
+Trained model of 1st part: [my_model_checkpoint.keras](https://drive.google.com/file/d/1MAXSIJ3yr55nIZB8Gs7KJB20y7P6uv4q/view?usp=drive_link)
+
+
+Trained model of 2nd/final part: [best_model_resume.keras](https://drive.google.com/file/d/1cUWFmpSBmyXqG-iw_Mjl_LUGi3CwwL56/view?usp=drive_link)
+
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -271,13 +277,3 @@ If you find this project useful, please consider:
 <p align="center">Made with ❤️ for farmers and sustainable agriculture</p>
 <p align="center">© 2025 Krishi - সহায়ক | Plant Disease Detection System</p>
 <p align="center">Part of the Krishi Sohayak Project</p>
-
- 
-my_model_checkpoint.keras (trained model of 1st part)- https://drive.google.com/file/d/1MAXSIJ3yr55nIZB8Gs7KJB20y7P6uv4q/view?usp=drive_link
-
-
-best_model_resume.keras (trained model of 2nd/final part)- https://drive.google.com/file/d/1cUWFmpSBmyXqG-iw_Mjl_LUGi3CwwL56/view?usp=drive_link
-
-
-
-
